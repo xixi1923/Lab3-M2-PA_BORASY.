@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Expense Tracker</string>
+
+    <string-array name="currency_array">
+        <item>KHR</item>
+        <item>USD</item>
+        <item>THB</item>
+        <item>VND</item>
+        <item>PH</item>
+        <item>INDO</item>
+    </string-array>
+
+    <string-array name="category_array">
+        <item>Food</item>
+        <item>Transport</item>
+        <item>Shopping</item>
+        <item>Entertainment</item>
+        <item>Other</item>
+    </string-array>
+</resources>
